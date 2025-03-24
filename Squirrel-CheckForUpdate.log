@@ -1,0 +1,6 @@
+﻿[21/03/25 20:30:15] info: Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=3.4.18&env=production&guid=4501f768-0c8f-4351-a119-32508e9fded5
+[21/03/25 20:30:15] info: Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=3.4.18&env=production&guid=4501f768-0c8f-4351-a119-32508e9fded5
+[21/03/25 20:30:16] info: CheckForUpdateImpl: Generated new staging user ID: d9339501-b4f5-580a-a39b-f708edd71dcf
+[21/03/25 20:30:16] info: CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=3.4.18&env=production&guid=4501f768-0c8f-4351-a119-32508e9fded5
+[21/03/25 20:30:17] info: FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=3.4.18&env=production&guid=4501f768-0c8f-4351-a119-32508e9fded5&id=GitHubDesktop&localVersion=3.4.18&arch=amd64
+[21/03/25 20:30:19] info: Program: Finished Squirrel Updater
